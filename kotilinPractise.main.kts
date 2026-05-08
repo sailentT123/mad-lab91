@@ -31,8 +31,8 @@ class KotlinPractice {
     fun main() {
 
         
-        val name = "Your Name"
-        var age = 21
+        val name = "Tahir Bakar Ali"
+        var age = 23
         println("My name is $name and I am $age years old.")
 
         
